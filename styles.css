@@ -1,0 +1,84 @@
+/** Jeff Palmer **/
+.nav-tab {
+  background-color: white;
+  border-style:solid;
+}
+
+.headings {
+  font-family: Arial;
+  font-family: monospace;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h1 {
+  border-style:solid;
+  border-color: black;
+  color: slateblue;
+}
+
+h4 {
+    font-size: 18px;
+    font-family: Verdana;
+    font-weight: bold;
+}
+
+h5 {
+    font-size: 20px;
+    font-family: Verdana;
+    color: royalblue;
+    font-weight: bold;
+}
+
+body {
+  background-color: darkslategray;
+}
+
+p {
+  font-size: 22px;
+  font-family: Verdana;
+  color: deepskyblue;
+}
+
+div {
+  color: black;
+}
+
+.nav-tab:hover {
+  background-color: orange;
+}
+
+.tb1 {
+  border: 8px solid;
+  border-style: ridge;
+  border-color: royalblue;
+}
+
+.tb2 {
+  border: 8px solid;
+  border-style: ridge;
+  border-color: royalblue;
+}
+
+.tb3 {
+  border: 12px solid;
+  border-style: ridge;
+  border-color: white;
+}
+
+.td1 {
+  width: 2000px;
+}
+
+.td2 {
+  width: 2000px;
+  height: 200px;
+}
+
+.td3 {
+  width: 400px;
+}
+
+.tra {
+  text-align: center;
+}
